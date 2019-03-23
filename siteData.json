@@ -1,11 +1,34 @@
 {
-  "enableSearch": true,
   "pages": [
     {
       "headings": {
         "learning-resources-for-software-engineering-students": "Learning Resources for Software Engineering Students"
       },
       "src": "README.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_markbind/footers/footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_markbind/head/head.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_markbind/navigation/mainNav.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_markbind/variables.md",
       "title": "",
       "layout": "default"
     },
@@ -30,7 +53,7 @@
     },
     {
       "headings": {
-        "introduction-to-machine-learning-ml": "Introduction to Machine Learning (ML)",
+        "introduction-to-machine-learning-(ml)": "Introduction to Machine Learning (ML)",
         "what-is-ml": "What is ML",
         "types-of-ml-tasks": "Types of ML tasks",
         "types-of-ml-algorithms": "Types of ML Algorithms",
@@ -40,7 +63,7 @@
         "prototyping-workflow": "Prototyping Workflow",
         "basic-data-preprocessing": "Basic Data Preprocessing",
         "partitioning-of-data": "Partitioning of Data",
-        "model-training-evaluation-data-analysis": "Model Training, Evaluation, Data Analysis",
+        "model-training%2C-evaluation%2C-data-analysis": "Model Training, Evaluation, Data Analysis",
         "production": "Production",
         "concluding-remarks": "Concluding Remarks",
         "supplementary-resources": "Supplementary Resources",
@@ -57,19 +80,19 @@
     {
       "headings": {
         "introduction-to-android-app-development": "Introduction to Android App Development",
-        "1-getting-started": "1. Getting Started",
-        "1-1-what-is-android": "1.1 What is Android?",
-        "1-2-why-android": "1.2 Why Android?",
-        "1-3-why-should-i-make-native-android-apps": "1.3 Why should I make native Android apps?",
-        "1-4-develop-your-first-app-today": "1.4 Develop your first app today!",
-        "2-android-is-not-magic": "2. Android is not magic",
-        "2-1-app-components": "2.1 App Components",
-        "2-2-activity-lifecycle": "2.2 Activity Lifecycle",
-        "2-3-the-architecture-of-android": "2.3 The Architecture of Android",
-        "3-useful-android-developer-tools": "3. Useful Android Developer Tools",
-        "3-1-testing": "3.1 Testing",
-        "3-2-debugging": "3.2 Debugging",
-        "4-further-readings": "4. Further Readings"
+        "1.-getting-started": "1. Getting Started",
+        "1.1-what-is-android%3F": "1.1 What is Android?",
+        "1.2-why-android%3F": "1.2 Why Android?",
+        "1.3-why-should-i-make-native-android-apps%3F": "1.3 Why should I make native Android apps?",
+        "1.4-develop-your-first-app-today!": "1.4 Develop your first app today!",
+        "2.-android-is-not-magic": "2. Android is not magic",
+        "2.1-app-components": "2.1 App Components",
+        "2.2-activity-lifecycle": "2.2 Activity Lifecycle",
+        "2.3-the-architecture-of-android": "2.3 The Architecture of Android",
+        "3.-useful-android-developer-tools": "3. Useful Android Developer Tools",
+        "3.1-testing": "3.1 Testing",
+        "3.2-debugging": "3.2 Debugging",
+        "4.-further-readings": "4. Further Readings"
       },
       "title": "Introduction to Android App Development",
       "footer": "footer.md",
@@ -83,18 +106,18 @@
       "headings": {
         "rest-architectural-style": "REST Architectural Style",
         "overview": "Overview",
-        "what-does-rest-mean": "What does REST mean?",
+        "what-does-rest-mean%3F": "What does REST mean?",
         "resource": "Resource",
         "representational-state": "Representational State",
         "representational-state-transfer": "Representational State Transfer",
-        "what-should-rest-bring-to-the-web": "What should REST bring to the Web?",
-        "what-exactly-is-rest": "What exactly is REST?",
+        "what-should-rest-bring-to-the-web%3F": "What should REST bring to the Web?",
+        "what-exactly-is-rest%3F": "What exactly is REST?",
         "client-server": "Client-Server",
         "stateless": "Stateless",
         "cache": "Cache",
         "layered-system": "Layered System",
         "uniform-interface": "Uniform Interface",
-        "code-on-demand-optional": "Code On Demand (Optional)",
+        "code-on-demand-(optional)": "Code On Demand (Optional)",
         "useful-resources": "Useful Resources"
       },
       "title": "REST Architectural Style",
@@ -149,7 +172,7 @@
     },
     {
       "headings": {
-        "introduction-to-computer-vision-cv": "Introduction to computer vision (CV)",
+        "introduction-to-computer-vision-(cv)": "Introduction to computer vision (CV)",
         "what-is-cv": "What is CV",
         "applications-of-cv": "Applications of CV",
         "typical-cv-tasks": "Typical CV tasks",
@@ -159,7 +182,7 @@
         "object-detection": "Object Detection",
         "object-tracking": "Object Tracking",
         "gpu-accelerated-cv": "GPU-accelerated CV",
-        "what-s-next": "What's next",
+        "what's-next": "What's next",
         "references": "References"
       },
       "title": "Introduction to computer vision (CV)",
@@ -172,11 +195,11 @@
     },
     {
       "headings": {
-        "introduction-to-databases-and-database-management-systems-dbms": "Introduction to Databases &amp; Database Management Systems (DBMS)",
-        "why-learn-databases-and-dbmses": "Why learn databases and DBMSes?",
+        "introduction-to-databases-%26-database-management-systems-(dbms)": "Introduction to Databases &amp; Database Management Systems (DBMS)",
+        "why-learn-databases-and-dbmses%3F": "Why learn databases and DBMSes?",
         "introduction": "Introduction",
         "database-models": "Database models",
-        "why-are-there-different-models": "Why are there different models?",
+        "why-are-there-different-models%3F": "Why are there different models?",
         "examples-of-dbms-implementations": "Examples of DBMS implementations",
         "relations": "Relations",
         "transactions": "Transactions",
@@ -197,11 +220,11 @@
     {
       "headings": {
         "devops": "DevOps",
-        "what-is-devops": "What is DevOps?",
+        "what-is-devops%3F": "What is DevOps?",
         "aspects-of-devops": "Aspects of DevOps",
-        "code-development-and-review": "Code Development &amp; Review",
-        "build-and-test-automation": "Build &amp; Test Automation",
-        "deployment-and-infrastructure": "Deployment &amp; Infrastructure",
+        "code-development-%26-review": "Code Development &amp; Review",
+        "build-%26-test-automation": "Build &amp; Test Automation",
+        "deployment-%26-infrastructure": "Deployment &amp; Infrastructure",
         "monitoring": "Monitoring",
         "getting-started": "Getting Started",
         "useful-links": "Useful Links",
@@ -238,16 +261,16 @@
     {
       "headings": {
         "introduction-to-go": "Introduction to Go",
-        "what-is-go": "What Is Go?",
-        "why-learn-go": "Why Learn Go?",
-        "benefit-better-variable-declarations": "Benefit: Better Variable Declarations",
-        "benefit-better-support-for-concurrency": "Benefit: Better Support for Concurrency",
-        "benefit-better-error-handling": "Benefit: Better Error Handling",
-        "benefit-defer-execution": "Benefit: defer Execution",
-        "benefit-good-support-for-interfaces": "Benefit: Good Support for Interfaces",
-        "benefit-canonical-coding-style": "Benefit: Canonical Coding Style",
-        "how-to-get-started-with-go": "How to Get Started with Go?",
-        "where-to-go-from-here": "Where to Go from Here?"
+        "what-is-go%3F": "What Is Go?",
+        "why-learn-go%3F": "Why Learn Go?",
+        "benefit%3A-better-variable-declarations": "Benefit: Better Variable Declarations",
+        "benefit%3A-better-support-for-concurrency": "Benefit: Better Support for Concurrency",
+        "benefit%3A-better-error-handling": "Benefit: Better Error Handling",
+        "benefit%3A-defer-execution": "Benefit: defer Execution",
+        "benefit%3A-good-support-for-interfaces": "Benefit: Good Support for Interfaces",
+        "benefit%3A-canonical-coding-style": "Benefit: Canonical Coding Style",
+        "how-to-get-started-with-go%3F": "How to Get Started with Go?",
+        "where-to-go-from-here%3F": "Where to Go from Here?"
       },
       "title": "Introduction to Go",
       "footer": "footer.md",
@@ -260,24 +283,24 @@
     {
       "headings": {
         "an-introduction-to-cuda": "An Introduction to CUDA",
-        "0-disclaimer": "§ 0. Disclaimer",
-        "1-cuda": "§ 1. CUDA",
-        "1-1-what-is-cuda": "§ 1.1 What is CUDA?",
-        "1-2-cuda-terminologies": "§ 1.2 CUDA Terminologies",
-        "1-3-kernel-implementations-in-c": "§ 1.3 Kernel Implementations in C",
-        "1-4-introductory-tutorial": "§ 1.4 Introductory Tutorial",
-        "2-pycuda": "§ 2. PyCUDA",
-        "2-1-what-is-pycuda": "§ 2.1 What is PyCUDA?",
-        "2-2-does-this-mean-not-having-to-use-c-and-coding-entirely-in-python": "§ 2.2 Does this mean not having to use C, and coding entirely in Python?",
-        "2-3-so-why-bother-with-pycuda": "§ 2.3 So Why bother with PyCUDA?",
-        "2-4-installing-pycuda": "§ 2.4 Installing PyCUDA",
-        "2-5-minor-pycuda-terminologies": "§ 2.5 Minor PyCUDA Terminologies",
-        "2-6-introductory-tutorial": "§ 2.6 Introductory Tutorial",
-        "3-cuda-vs-opencl": "§ 3. CUDA vs OpenCL",
-        "3-1-what-is-opencl": "§ 3.1 What is OpenCL?",
-        "3-2-differences-between-cuda-and-opencl": "§ 3.2 Differences between CUDA and OpenCL",
-        "4-further-readings": "§ 4. Further Readings",
-        "5-references": "§ 5. References"
+        "%C2%A7-0.-disclaimer": "§ 0. Disclaimer",
+        "%C2%A7-1.-cuda": "§ 1. CUDA",
+        "%C2%A7-1.1-what-is-cuda%3F": "§ 1.1 What is CUDA?",
+        "%C2%A7-1.2-cuda-terminologies": "§ 1.2 CUDA Terminologies",
+        "%C2%A7-1.3-kernel-implementations-in-c": "§ 1.3 Kernel Implementations in C",
+        "%C2%A7-1.4-introductory-tutorial": "§ 1.4 Introductory Tutorial",
+        "%C2%A7-2.-pycuda": "§ 2. PyCUDA",
+        "%C2%A7-2.1-what-is-pycuda%3F": "§ 2.1 What is PyCUDA?",
+        "%C2%A7-2.2-does-this-mean-not-having-to-use-c%2C-and-coding-entirely-in-python%3F": "§ 2.2 Does this mean not having to use C, and coding entirely in Python?",
+        "%C2%A7-2.3-so-why-bother-with-pycuda%3F": "§ 2.3 So Why bother with PyCUDA?",
+        "%C2%A7-2.4-installing-pycuda": "§ 2.4 Installing PyCUDA",
+        "%C2%A7-2.5-minor-pycuda-terminologies": "§ 2.5 Minor PyCUDA Terminologies",
+        "%C2%A7-2.6-introductory-tutorial": "§ 2.6 Introductory Tutorial",
+        "%C2%A7-3.-cuda-vs-opencl": "§ 3. CUDA vs OpenCL",
+        "%C2%A7-3.1-what-is-opencl%3F": "§ 3.1 What is OpenCL?",
+        "%C2%A7-3.2-differences-between-cuda-and-opencl": "§ 3.2 Differences between CUDA and OpenCL",
+        "%C2%A7-4.-further-readings": "§ 4. Further Readings",
+        "%C2%A7-5.-references": "§ 5. References"
       },
       "title": "An Introduction to CUDA",
       "footer": "footer.md",
@@ -290,15 +313,15 @@
     {
       "headings": {
         "an-introduction-to-gpgpu": "An Introduction to GPGPU",
-        "1-gpgpu": "§ 1. GPGPU",
-        "1-1-what-is-gpgpu": "§ 1.1 What is GPGPU?",
-        "1-2-why-bother-with-parallel-processing": "§ 1.2 Why bother with parallel processing?",
-        "1-3-aren-t-multicore-cpus-enough": "§ 1.3 Aren't multicore CPUs enough?",
-        "1-4-what-are-the-challenges-with-gpgpu": "§ 1.4 What are the challenges with GPGPU?",
-        "1-5-implementations": "§ 1.5 Implementations",
-        "1-6-gpgpu-in-action": "§ 1.6 GPGPU in action",
-        "2-further-readings": "§ 2. Further Readings",
-        "3-references": "§ 3. References"
+        "%C2%A7-1.-gpgpu": "§ 1. GPGPU",
+        "%C2%A7-1.1-what-is-gpgpu%3F": "§ 1.1 What is GPGPU?",
+        "%C2%A7-1.2-why-bother-with-parallel-processing%3F": "§ 1.2 Why bother with parallel processing?",
+        "%C2%A7-1.3-aren't-multicore-cpus-enough%3F": "§ 1.3 Aren't multicore CPUs enough?",
+        "%C2%A7-1.4-what-are-the-challenges-with-gpgpu%3F": "§ 1.4 What are the challenges with GPGPU?",
+        "%C2%A7-1.5-implementations": "§ 1.5 Implementations",
+        "%C2%A7-1.6-gpgpu-in-action": "§ 1.6 GPGPU in action",
+        "%C2%A7-2.-further-readings": "§ 2. Further Readings",
+        "%C2%A7-3.-references": "§ 3. References"
       },
       "title": "An Introduction to GPGPU",
       "footer": "footer.md",
@@ -320,8 +343,8 @@
         "whirlwind-tour": "Whirlwind Tour",
         "types": "Types",
         "basic-types": "Basic Types",
-        "functions-and-currying": "Functions &amp; Currying",
-        "algebraic-data-types-and-pattern-matching": "Algebraic Data Types &amp; Pattern Matching",
+        "functions-%26-currying": "Functions &amp; Currying",
+        "algebraic-data-types-%26-pattern-matching": "Algebraic Data Types &amp; Pattern Matching",
         "type-parameters": "Type Parameters",
         "inductive-data-types": "Inductive Data Types",
         "further-reading": "Further Reading",
@@ -329,8 +352,8 @@
         "functions": "Functions",
         "recursion": "Recursion",
         "lists": "Lists",
-        "list-processing-fold": "List Processing - Fold",
-        "list-processing-map-and-filter": "List Processing - Map &amp; Filter",
+        "list-processing---fold": "List Processing - Fold",
+        "list-processing---map-%26-filter": "List Processing - Map &amp; Filter",
         "programming-with-other-inductive-data-types": "Programming with Other Inductive Data Types",
         "further-reading-2": "Further Reading",
         "typeclasses": "Typeclasses",
@@ -376,7 +399,7 @@
     },
     {
       "headings": {
-        "advanced-java-reflections": "Advanced Java: Reflections",
+        "advanced-java%3A-reflections": "Advanced Java: Reflections",
         "reflection": "Reflection",
         "what-is-java-reflections": "What is Java reflections",
         "the-basics-of-reflections": "The Basics of Reflections",
@@ -401,11 +424,11 @@
         "synchronized-statement": "synchronized statement",
         "synchronized-method": "synchronized method",
         "more-features-of-java-synchronization": "More features of Java synchronization",
-        "wait-and-notifyall": "wait() and notifyAll()",
+        "wait()-and-notifyall()": "wait() and notifyAll()",
         "understand-which-object-is-used-as-monitor": "Understand which object is used as Monitor",
-        "check-condition-for-wait-with-while-loop": "Check condition for wait() with while loop",
-        "breakpoint-of-notifyall": "Breakpoint of notifyAll()",
-        "notify": "notify()",
+        "check-condition-for-wait()-with-while-loop": "Check condition for wait() with while loop",
+        "breakpoint-of-notifyall()": "Breakpoint of notifyAll()",
+        "notify()": "notify()",
         "related-areas": "Related areas"
       },
       "title": "Java Synchronization",
@@ -418,11 +441,11 @@
     },
     {
       "headings": {
-        "java-8-streams-an-introduction": "Java 8 Streams - An Introduction",
+        "java-8-streams---an-introduction": "Java 8 Streams - An Introduction",
         "overview": "Overview",
         "getting-started": "Getting Started",
         "functional-interface-and-lambda-expressions": "Functional Interface and Lambda Expressions",
-        "what-is-a-stream": "What is a stream?",
+        "what-is-a-stream%3F": "What is a stream?",
         "building-a-stream-pipeline": "Building a Stream Pipeline",
         "constructing-streams": "Constructing Streams",
         "intermediate-operations": "Intermediate Operations",
@@ -475,13 +498,13 @@
     },
     {
       "headings": {
-        "javascript-promises": "Javascript: Promises",
-        "why-promises": "Why Promises?",
-        "what-is-a-promise": "What is a Promise?",
+        "javascript%3A-promises": "Javascript: Promises",
+        "why-promises%3F": "Why Promises?",
+        "what-is-a-promise%3F": "What is a Promise?",
         "quickstart": "Quickstart",
         "how-promises-are-used": "How Promises are used",
         "http-requests": "HTTP Requests",
-        "disk-i-o": "Disk I/O",
+        "disk-i%2Fo": "Disk I/O",
         "other-functions": "Other functions",
         "further-reading": "Further Reading"
       },
@@ -519,9 +542,9 @@
     {
       "headings": {
         "null-safety-in-kotlin": "Null Safety in Kotlin",
-        "what-is-null-safety": "What is Null Safety?",
+        "what-is-null-safety%3F": "What is Null Safety?",
         "nullpointerexception": "NullPointerException",
-        "how-does-kotlin-handle-null-safety": "How does Kotlin handle Null Safety?",
+        "how-does-kotlin-handle-null-safety%3F": "How does Kotlin handle Null Safety?",
         "nullable-and-non-nullable-type": "Nullable and Non-nullable type",
         "safety-operators-in-kotlin": "Safety Operators in Kotlin",
         "safe-call-operator": "Safe call operator",
@@ -542,7 +565,7 @@
       "headings": {
         "introduction-to-kotlin": "Introduction to Kotlin",
         "overview": "Overview",
-        "why-kotlin": "Why Kotlin?",
+        "why-kotlin%3F": "Why Kotlin?",
         "concise": "Concise",
         "safe": "Safe",
         "interoperable": "Interoperable",
@@ -562,18 +585,18 @@
     },
     {
       "headings": {
-        "introduction-to-node-js": "Introduction to Node.js",
+        "introduction-to-node.js": "Introduction to Node.js",
         "overview": "Overview",
         "benefits": "Benefits",
-        "benefit-1-easy-to-get-started": "Benefit 1: Easy to get started",
-        "benefit-2-avoid-synchronization-problems-and-overheads": "Benefit 2: Avoid synchronization problems and overheads",
-        "benefit-3-fast-for-i-o-intensive-tasks": "Benefit 3: Fast for I/O intensive tasks",
-        "benefit-4-use-javascript-for-both-front-and-back-end-development": "Benefit 4: Use JavaScript for both front and back-end development",
-        "benefit-5-easy-dependency-management-with-npm": "Benefit 5: Easy dependency management with npm",
-        "benefit-6-npm-scripts-is-versatile-and-help-to-save-time-in-the-development-process": "Benefit 6: npm scripts is versatile and help to save time in the development process",
-        "benefit-7-easy-to-reuse-code-from-others": "Benefit 7: Easy to reuse code from others",
-        "benefit-8-good-support": "Benefit 8: Good support",
-        "benefit-9-support-for-better-code-organization": "Benefit 9: Support for better code organization",
+        "benefit-1%3A-easy-to-get-started": "Benefit 1: Easy to get started",
+        "benefit-2%3A-avoid-synchronization-problems-and-overheads": "Benefit 2: Avoid synchronization problems and overheads",
+        "benefit-3%3A-fast-for-i%2Fo-intensive-tasks": "Benefit 3: Fast for I/O intensive tasks",
+        "benefit-4%3A-use-javascript-for-both-front-and-back-end-development": "Benefit 4: Use JavaScript for both front and back-end development",
+        "benefit-5%3A-easy-dependency-management-with-npm": "Benefit 5: Easy dependency management with npm",
+        "benefit-6%3A-npm-scripts-is-versatile-and-help-to-save-time-in-the-development-process": "Benefit 6: npm scripts is versatile and help to save time in the development process",
+        "benefit-7%3A-easy-to-reuse-code-from-others": "Benefit 7: Easy to reuse code from others",
+        "benefit-8%3A-good-support": "Benefit 8: Good support",
+        "benefit-9%3A-support-for-better-code-organization": "Benefit 9: Support for better code organization",
         "use-cases": "Use cases",
         "resources": "Resources"
       },
@@ -625,10 +648,10 @@
       "headings": {
         "profiling-a-desktop-application-in-visual-studio-2015": "Profiling a Desktop Application In Visual Studio 2015",
         "overview": "Overview",
-        "1-run-a-performance-profiling-session": "1. Run a performance profiling session",
-        "2-view-the-performance-report": "2. View the performance report",
-        "3-trace-down-to-the-problem": "3. Trace down to the problem",
-        "4-identify-areas-for-improvements-upwards": "4. Identify areas for improvements upwards",
+        "1.-run-a-performance-profiling-session": "1. Run a performance profiling session",
+        "2.-view-the-performance-report": "2. View the performance report",
+        "3.-trace-down-to-the-problem": "3. Trace down to the problem",
+        "4.-identify-areas-for-improvements-upwards": "4. Identify areas for improvements upwards",
         "resources": "Resources"
       },
       "title": "Profiling a Desktop Application In Visual Studio 2015",
@@ -643,11 +666,11 @@
       "headings": {
         "agile-development": "Agile Development",
         "overview": "Overview",
-        "what-is-agile-development": "What is agile development?",
-        "why-adopt-agile-development": "Why adopt agile development?",
-        "how-to-adopt-agile-development": "How to adopt agile development?",
-        "caveats-what-can-possibly-go-wrong": "Caveats: What can possibly go wrong?",
-        "putting-it-all-together-the-spotify-success-story": "Putting it all together: The Spotify success story",
+        "what-is-agile-development%3F": "What is agile development?",
+        "why-adopt-agile-development%3F": "Why adopt agile development?",
+        "how-to-adopt-agile-development%3F": "How to adopt agile development?",
+        "caveats%3A-what-can-possibly-go-wrong%3F": "Caveats: What can possibly go wrong?",
+        "putting-it-all-together%3A-the-spotify-success-story": "Putting it all together: The Spotify success story",
         "other-related-resources": "Other related resources"
       },
       "title": "Agile Development",
@@ -704,8 +727,8 @@
       "headings": {
         "introduction-to-regular-expressions": "Introduction to Regular Expressions",
         "overview": "Overview",
-        "what-are-regular-expressions": "What are Regular Expressions?",
-        "why-should-i-learn-regex": "Why should I learn Regex?",
+        "what-are-regular-expressions%3F": "What are Regular Expressions?",
+        "why-should-i-learn-regex%3F": "Why should I learn Regex?",
         "getting-started": "Getting Started",
         "introduction": "Introduction",
         "search-text": "Search Text",
@@ -772,7 +795,7 @@
         "everything-is-an-object": "Everything is an object",
         "readability-is-king": "Readability is king",
         "functional-programming-is-encouraged": "Functional programming is encouraged",
-        "object-oriented-programming-is-possible-too": "Object-oriented programming is possible, too",
+        "object-oriented-programming-is-possible%2C-too": "Object-oriented programming is possible, too",
         "advanced-topics": "Advanced Topics",
         "ruby-frameworks-and-devops": "Ruby Frameworks and DevOps"
       },
@@ -805,14 +828,14 @@
     },
     {
       "headings": {
-        "scalable-development-an-introduction": "Scalable Development - An Introduction",
+        "scalable-development---an-introduction": "Scalable Development - An Introduction",
         "scalable-development": "Scalable Development",
         "scalability": "Scalability",
         "ways-to-scale": "Ways to scale",
         "horizontal-vs-vertical-scaling": "Horizontal vs Vertical Scaling",
         "faster-algorithms": "Faster Algorithms",
         "avoid-bottlenecks": "Avoid Bottlenecks",
-        "but-wait": "But wait!",
+        "but-wait!": "But wait!",
         "conclusion": "Conclusion"
       },
       "title": "Scalable Development - An Introduction",
@@ -825,7 +848,7 @@
     },
     {
       "headings": {
-        "security-https": "Security - https",
+        "security---https": "Security - https",
         "overview": "Overview",
         "why-do-we-need-https": "Why do we need HTTPS",
         "why-https-is-secure": "Why HTTPS is secure",
@@ -843,11 +866,11 @@
     },
     {
       "headings": {
-        "cross-site-request-forgery-csrf": "Cross Site Request Forgery (CSRF)",
+        "cross-site-request-forgery-(csrf)": "Cross Site Request Forgery (CSRF)",
         "flow-of-a-csrf-attack": "Flow of a CSRF attack",
-        "step-1-the-victim-logs-in-to-a-vulnerable-web-service": "Step 1: The victim logs in to a vulnerable web service",
-        "step-2-the-victim-visits-an-untrusted-website-controlled-by-the-attacker": "Step 2: The victim visits an untrusted website controlled by the attacker",
-        "step-3-the-untrusted-website-makes-requests-to-the-vulnerable-web-service-on-the-victim-s-behalf": "Step 3: The untrusted website makes requests to the vulnerable web service on the victim's behalf",
+        "step-1%3A-the-victim-logs-in-to-a-vulnerable-web-service": "Step 1: The victim logs in to a vulnerable web service",
+        "step-2%3A-the-victim-visits-an-untrusted-website-controlled-by-the-attacker": "Step 2: The victim visits an untrusted website controlled by the attacker",
+        "step-3%3A-the-untrusted-website-makes-requests-to-the-vulnerable-web-service-on-the-victim's-behalf": "Step 3: The untrusted website makes requests to the vulnerable web service on the victim's behalf",
         "conditions-for-a-successful-csrf-attack": "Conditions for a successful CSRF attack",
         "defense-against-csrf-attacks": "Defense against CSRF attacks",
         "references": "References"
@@ -898,8 +921,8 @@
         "sql-injection": "SQL Injection",
         "overview": "Overview",
         "preventing-sql-injection": "Preventing SQL Injection",
-        "solution-1-prepared-statements-using-parameterized-queries": "Solution 1: Prepared Statements using Parameterized Queries",
-        "solution-2-whitelist-input-validation": "Solution 2: Whitelist Input Validation",
+        "solution-1%3A-prepared-statements-using-parameterized-queries": "Solution 1: Prepared Statements using Parameterized Queries",
+        "solution-2%3A-whitelist-input-validation": "Solution 2: Whitelist Input Validation",
         "resources": "Resources"
       },
       "title": "SQL Injection",
@@ -942,7 +965,7 @@
         "configuration": "Configuration",
         "suppress-warnings": "Suppress Warnings",
         "running": "Running",
-        "spotbugs-the-successor-of-findbugs": "SpotBugs - The successor of Findbugs",
+        "spotbugs---the-successor-of-findbugs": "SpotBugs - The successor of Findbugs",
         "advanced-topics": "Advanced Topics",
         "resources": "Resources"
       },
@@ -1007,7 +1030,7 @@
       "headings": {
         "introduction-to-static-analysis": "Introduction to Static Analysis",
         "overview": "Overview",
-        "why-static-analysis": "Why Static Analysis?",
+        "why-static-analysis%3F": "Why Static Analysis?",
         "analyse-thoroughly": "Analyse Thoroughly",
         "find-potential-bugs-early": "Find Potential Bugs Early",
         "enforce-a-standard-in-project": "Enforce a Standard in Project",
@@ -1015,7 +1038,7 @@
         "limitation-of-static-analysis": "Limitation of Static Analysis",
         "false-positives": "False positives",
         "cannot-catch-error-introduced-in-runtime-environment": "Cannot Catch Error Introduced in Runtime Environment",
-        "how-to-do-static-analysis-static-analysis-tools": "How to Do Static Analysis (Static Analysis Tools)",
+        "how-to-do-static-analysis-(static-analysis-tools)": "How to Do Static Analysis (Static Analysis Tools)",
         "references": "References"
       },
       "title": "Static Analysis",
@@ -1053,22 +1076,66 @@
       "layout": "default"
     },
     {
+      "headings": {},
+      "src": "contents/testing/_site/markbind/layouts/default/footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "contents/testing/_site/markbind/layouts/default/head.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "contents/testing/_site/markbind/layouts/default/navigation.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "integration-testing": "Integration Testing",
+        "what-is-integration-testing%3F": "What is integration testing?",
+        "why-is-integration-testing-important-to-se%3F": "Why is integration testing important to SE?",
+        "how-does-integration-testing-work%3F": "How does integration testing work?",
+        "integration-test-plan": "Integration Test Plan",
+        "designing-test-scenarios%2C-cases-and-scripts": "Designing test scenarios, cases and scripts",
+        "executing-test-scripts-and-report-defects": "Executing test scripts and report defects",
+        "tips-for-better-integration-tests": "Tips for better integration tests",
+        "%3Athumbsup%3A-make-sure-that-each-component-is-unit-tested-before-integration-testing": "👍 Make sure that each component is unit tested before integration testing",
+        "%3Athumbsup%3A-prioritize-the-modules-to-be-tested": "👍 Prioritize the modules to be tested",
+        "%3Athumbsup%3A-automate-your-tests-(strongly-encouraged)": "👍 Automate your tests (strongly encouraged)",
+        "%3Athumbsup%3A-ensure-that-all-executed-test-cases-are-documented": "👍 Ensure that all executed test cases are documented",
+        "tools-to-get-started-with-integration-testing": "Tools to get started with integration testing",
+        "concluding-remarks": "Concluding Remarks",
+        "useful-resources": "Useful Resources"
+      },
+      "title": "Integration Testing",
+      "footer": "footer.md",
+      "head": "head.md",
+      "siteNav": "mainNav.md",
+      "pageNav": 3,
+      "src": "contents/testing/writing-integration-test.md",
+      "layout": "default"
+    },
+    {
       "headings": {
         "writing-testable-code": "Writing Testable Code",
-        "flaw-1-no-seams-for-isolating-the-class-under-test": "Flaw #1: No seams for isolating the class under test",
-        "rule-1-don-t-do-actual-work-in-constructors": "Rule #1: Don't do actual work in constructors",
-        "rule-2-don-t-mix-object-construction-with-application-logic": "Rule #2: Don't mix object construction with application logic",
-        "rule-3-don-t-mix-service-objects-with-value-objects": "Rule #3: Don't mix Service Objects with Value Objects",
-        "rule-4-avoid-static-methods": "Rule #4: Avoid Static Methods",
-        "rule-5-favor-composition-over-inheritance": "Rule #5: Favor composition over inheritance",
-        "flaw-2-brittle-global-state-and-singleton": "Flaw #2: Brittle Global State &amp; Singleton",
-        "rule-1-avoid-global-states": "Rule #1: Avoid Global States",
-        "rule-2-avoid-singleton-pattern": "Rule #2: Avoid Singleton Pattern",
-        "flaw-3-dig-into-collaborators": "Flaw #3: Dig Into Collaborators",
-        "rule-1-don-t-look-for-things-ask-for-things": "Rule #1: Don't look for things. Ask for things.",
-        "flaw-4-class-does-too-much": "Flaw #4: Class does too much",
-        "rule-1-avoid-mixing-of-concerns": "Rule #1: Avoid mixing of concerns",
-        "rule-2-favor-polymorphism-over-conditionals": "Rule #2: Favor polymorphism over conditionals",
+        "flaw-%231%3A-no-seams-for-isolating-the-class-under-test": "Flaw #1: No seams for isolating the class under test",
+        "rule-%231%3A-don't-do-actual-work-in-constructors": "Rule #1: Don't do actual work in constructors",
+        "rule-%232%3A-don't-mix-object-construction-with-application-logic": "Rule #2: Don't mix object construction with application logic",
+        "rule-%233%3A-don't-mix-service-objects-with-value-objects": "Rule #3: Don't mix Service Objects with Value Objects",
+        "rule-%234%3A-avoid-static-methods": "Rule #4: Avoid Static Methods",
+        "rule-%235%3A-favor-composition-over-inheritance": "Rule #5: Favor composition over inheritance",
+        "flaw-%232%3A-brittle-global-state-%26-singleton": "Flaw #2: Brittle Global State &amp; Singleton",
+        "rule-%231%3A-avoid-global-states": "Rule #1: Avoid Global States",
+        "rule-%232%3A-avoid-singleton-pattern": "Rule #2: Avoid Singleton Pattern",
+        "flaw-%233%3A-dig-into-collaborators": "Flaw #3: Dig Into Collaborators",
+        "rule-%231%3A-don't-look-for-things.-ask-for-things.": "Rule #1: Don't look for things. Ask for things.",
+        "flaw-%234%3A-class-does-too-much": "Flaw #4: Class does too much",
+        "rule-%231%3A-avoid-mixing-of-concerns": "Rule #1: Avoid mixing of concerns",
+        "rule-%232%3A-favor-polymorphism-over-conditionals": "Rule #2: Favor polymorphism over conditionals",
         "concluding-notes": "Concluding Notes"
       },
       "title": "Writing Testable Code",
@@ -1081,6 +1148,28 @@
     },
     {
       "headings": {
+        "accessibility": "Accessibility",
+        "what-is-accessibility%3F": "What is accessibility?",
+        "why-is-accessibility-important%3F": "Why is accessibility important?",
+        "how-can-i-improve-the-accessibility-of-my-website%3F": "How can I improve the accessibility of my website?",
+        "visual": "Visual",
+        "auditory": "Auditory",
+        "cognitive": "Cognitive",
+        "mobility": "Mobility",
+        "tools-for-developers": "Tools for Developers",
+        "concluding-remarks": "Concluding Remarks",
+        "useful-resources": "Useful Resources"
+      },
+      "title": "Accessibility",
+      "footer": "footer.md",
+      "head": "head.md",
+      "siteNav": "mainNav.md",
+      "pageNav": 3,
+      "src": "contents/uix/accessibility.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
         "refining-ux-design-skills": "Refining UX Design Skills",
         "table-of-contents": "Table of Contents",
         "overview": "Overview ",
@@ -1088,7 +1177,7 @@
         "becoming-a-ux-apprentice": "Becoming a UX apprentice ",
         "engaging-in-individual-ux-projects": "Engaging in individual UX projects ",
         "summary": "Summary ",
-        "additional-resource-s": "Additional Resource(s) "
+        "additional-resource(s)": "Additional Resource(s) "
       },
       "title": "Refining UX Design Skills",
       "footer": "footer.md",
@@ -1100,12 +1189,12 @@
     },
     {
       "headings": {
-        "introduction-to-ui-ux": "Introduction to UI/UX",
+        "introduction-to-ui%2Fux": "Introduction to UI/UX",
         "overview": "Overview",
         "user-interface-vs-user-experience": "User Interface vs User Experience",
         "ui-design": "UI Design",
         "ux-design": "UX Design",
-        "which-is-more-important": "Which is more important?",
+        "which-is-more-important%3F": "Which is more important?",
         "the-process-of-ux-design": "The Process of UX Design",
         "preliminary-research": "Preliminary Research",
         "prototyping": "Prototyping",
