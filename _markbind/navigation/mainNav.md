@@ -47,7 +47,7 @@
     * [ESLint]({{baseUrl}}/contents/staticAnalysis/ESLint.html)
   * Testing
     * [Writing Testable Code]({{baseUrl}}/contents/testing/writing-testable-code.html)
-    * [Writing Integration Test]({{baseUrl}}/contents/testing/writing-integration-test.html)
+    * [Integration Testing]({{baseUrl}}/contents/testing/integration-testing.html)
   * UI/UX
     * [Introduction to UI/UX]({{baseUrl}}/contents/uix/uix.html)
     * [Refining UX Design Skills]({{baseUrl}}/contents/uix/refining-ux-skills.html)
